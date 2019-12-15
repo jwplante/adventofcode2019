@@ -11,6 +11,6 @@ request if my solutions could be improved.
 Here is a [link](https://adventofcode.com/) to the Advent of Code site if you 
 want to try these coding problems out on your own.
 
-# License
+## License
 This project is licensed under the MIT License. More infomation can be found on
 in the LICENSE text file in the root directory of this repository.
