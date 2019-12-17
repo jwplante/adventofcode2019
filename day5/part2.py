@@ -249,4 +249,3 @@ inst_set = InstructionSetController(computer, io_system)
 executor = ExecuteController(computer, io_system, inst_set)
 
 executor.executeProgram()
-print(computer.prog[0])
